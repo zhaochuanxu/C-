@@ -1,0 +1,5 @@
+E:\项目管理\C#基础\C_Sharp基础\String基础\bin\Debug\String基础.exe.config
+E:\项目管理\C#基础\C_Sharp基础\String基础\bin\Debug\String基础.exe
+E:\项目管理\C#基础\C_Sharp基础\String基础\bin\Debug\String基础.pdb
+E:\项目管理\C#基础\C_Sharp基础\String基础\obj\Debug\String基础.exe
+E:\项目管理\C#基础\C_Sharp基础\String基础\obj\Debug\String基础.pdb
