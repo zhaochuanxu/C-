@@ -1,0 +1,5 @@
+E:\文件\NET技术\常量-枚举-结构\bin\Debug\常量-枚举-结构.exe.config
+E:\文件\NET技术\常量-枚举-结构\bin\Debug\常量-枚举-结构.exe
+E:\文件\NET技术\常量-枚举-结构\bin\Debug\常量-枚举-结构.pdb
+E:\文件\NET技术\常量-枚举-结构\obj\Debug\常量-枚举-结构.exe
+E:\文件\NET技术\常量-枚举-结构\obj\Debug\常量-枚举-结构.pdb

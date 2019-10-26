@@ -1,0 +1,5 @@
+E:\文件\NET技术\File类\bin\Debug\File类.exe.config
+E:\文件\NET技术\File类\bin\Debug\File类.exe
+E:\文件\NET技术\File类\bin\Debug\File类.pdb
+E:\文件\NET技术\File类\obj\Debug\File类.exe
+E:\文件\NET技术\File类\obj\Debug\File类.pdb
